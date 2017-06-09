@@ -6,8 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-<iframe src="//www.google.com/maps/embed/v1/directions?origin=Tate+Modern
-      &destination=Tower+of+London
+<iframe src="//www.google.com/maps/embed/v1/directions?origin=Strasbourg
+      &destination=St-Julien-en-genevois
       &key=AIzaSyDcn8MMEQ8gepKBM-89Ac2QgUkavxdYrsQ">
   </iframe>
 
